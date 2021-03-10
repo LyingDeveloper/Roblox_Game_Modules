@@ -7,3 +7,5 @@ List:
  - Leaderboard
  - Money System
  - Shop?
+ - Discord Webhook Intergration
+ 
