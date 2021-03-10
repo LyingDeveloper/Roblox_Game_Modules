@@ -1,0 +1,9 @@
+Ideas:
+
+Theme: Game/Minigame creation
+
+List:
+ - Game round
+ - Leaderboard
+ - Money System
+ - Shop?
